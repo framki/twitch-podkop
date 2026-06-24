@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "usher.ttvnw.net",
+        "gql.twitch.tv"
+      ],
+      "domain_suffix": [
+        "playlist.ttvnw.net",
+        "playlist.live-video.net"
+      ],
+      "domain_regex": [
+        "^video-weaver\\.[a-z0-9-]+\\.hls\\.ttvnw\\.net$"
+      ]
+    }
+  ]
+}
